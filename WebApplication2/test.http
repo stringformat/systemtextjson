@@ -1,0 +1,9 @@
+﻿POST https://localhost:7178/test
+Content-Type: application/json
+
+{
+    "email": "test.test@test.fr",
+    "age": 25
+}
+
+###
